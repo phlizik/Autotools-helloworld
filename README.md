@@ -10,7 +10,7 @@
 
 
 ### 手动输入配置 
-——————— configure.ac  生成 configure  —————————— 
+——————— configure.ac  生成 configure  ——————————   
 //可先执行autoscan自动生成configure.scan再重命名成configure.ac,再进行修改。
 	
 	# Process this file with autoconf to produce a configure script.
